@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: rgb(31,160,255);
+    background: linear-gradient(90deg, rgba(31,160,255,1) 0%, rgba(18,218,251,1) 50%, rgba(167,253,204,1) 100%);
+    text-align: center;
+}
+
+h1  {
+    font-size: 100px;
+    margin-top: 40vh;
+}
+
+h2 {
+    font-size: 35px;
+}
