@@ -10,6 +10,8 @@ function definir_hora() {
     let month = present.getMonth();
     let year = present.getFullYear();
 
+    month += 1
+
     if (seconds < 10){
         seconds = "0" + seconds
     }
